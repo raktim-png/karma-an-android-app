@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Final App/app/src/main/res/layout/activity__start.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/drawable/rounded_button.xml" value="0.2265" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/drawable/rounded_button_orange.xml" value="0.2265" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity__admin__authenticate.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity__all__service_user.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity__chat.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity__edit__profile.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity__log_in_customer.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity__map.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity__otpcustomer.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity__otpservice_provider.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity__previous__orders.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity__register_customer.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity__register_service_provider.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity__service__booked.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity__service_provider_details.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity__start.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity__which_service_providers.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity_customer_details.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity_delivery_truck.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity_edit_user_profile.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity_home.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity_main.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/activity_service_provider_details.xml" value="0.19923044035912782" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/all_users_row_list.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/bottomsheet_feedback.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/category_appliances.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/category_carpenter.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/category_cleaning.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/category_delivery_truck.xml" value="0.24270833333333333" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/category_electrician.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/category_lighting.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/category_massage.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/category_paint.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/category_plumber.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/category_saloon.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/category_washing_machine.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/categorydelivery.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/fragment_fragment__account.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/fragment_fragment__message.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/fragment_fragment__orders.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/fragment_fragment_main.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/fragment_home.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/fragment_message.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/fragment_order.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/fragment_order_current_row.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/item_orders.xml" value="0.2099187687045746" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/item_service_providers.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/item_service_requests.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/nav_header_main.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/order_service_provider_profile.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/orders_row.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/pager_item.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/service_provider_list_row.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/service_provider_profile.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/layout/toolbar.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/menu/bottom_menu.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/menu/main_activity_bottom_menu.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/varga/Downloads/house_assist-master/app/src/main/res/menu/toolbar_menu.xml" value="0.21077383497221033" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

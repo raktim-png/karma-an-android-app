@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="android.example.house_assist">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> -->
+    <dist:module dist:instant="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".CategoryDelivery"
+            android:exported="false" />
+        <activity
+            android:name=".CategorySaloon"
+            android:exported="false" />
+        <activity
+            android:name=".CategoryAppliances"
+            android:exported="false" />
+        <activity
+            android:name=".CategoryPaint"
+            android:exported="false" />
+        <activity
+            android:name=".CategoryCleaning"
+            android:exported="false" />
+        <activity
+            android:name=".CategoryMassage"
+            android:exported="false" />
+        <activity
+            android:name=".EditUserProfile"
+            android:exported="false" />
+        <activity
+            android:name=".OrderServiceProviderProfile"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_CustomerDetails"
+            android:exported="false" />
+        <activity
+            android:name=".ServiceProviderProfile"
+            android:exported="false" />
+        <activity
+            android:name=".CategoryCarpenter"
+            android:exported="false" />
+        <activity
+            android:name=".CategoryElectrician"
+            android:exported="false" />
+        <activity
+            android:name=".CategoryPlumber"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityHome"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_Chat"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity_Previous_Orders"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity_Service_Booked"
+            android:parentActivityName=".Activity_WhichServiceProviders"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity_WhichServiceProviders"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity_Map"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity_Edit_Profile"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity_All_ServiceUser"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity_Admin_Authenticate"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity_ServiceProviderDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity_OTPServiceProvider"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity_LogInServiceProvider"
+            android:parentActivityName=".Activity_Start"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity_RegisterServiceProvider"
+            android:parentActivityName=".Activity_LogInServiceProvider"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity_OTPCustomer"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity_LogInCustomer"
+            android:parentActivityName=".Activity_Start"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity_RegisterCustomer"
+            android:parentActivityName=".Activity_LogInCustomer"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity_Start"
+            android:exported="true"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
